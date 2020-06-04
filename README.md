@@ -2,6 +2,11 @@
 * Spring Framework
 * SpringBoot
 * SpringCloud
+    * Eureka
+    * Feign
+    * Hystrix
+    * Ribbon
+    * Sleuth,ZipKin
 * Mybatis
 * Java Collections
 * JUC
